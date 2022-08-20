@@ -1,23 +1,23 @@
 ---
-description: You don't need to worry if the language is not English after start-up.
+注意: 如果啟動後語言不是英語，您無需擔心。
 ---
 
-# Language
+# 語言
 
-### 1.Go to the settings page
+### 1.轉到設定頁
 
-![Like this](../.gitbook/assets/Screenshot\_2022-08-14-15-10-39-04\_d17cc25ab2657fb.jpg)
+![就像這樣](../.gitbook/assets/Screenshot\_2022-08-14-15-10-39-04\_d17cc25ab2657fb.jpg)
 
-Scroll down the gray page on the left and click on the "设置" button,go to the settings page.
+向下滾動左側灰色頁面，點擊“设置”按鈕，進入設定頁面。
 
-### 2.Go to the "General" settings section
+### 2.轉到“常規”設定部分
 
 ![](../.gitbook/assets/Screenshot\_2022-08-14-15-13-38-23\_d17cc25ab2657fb.jpg)
 
-Click the "通用" button to go to the page where you can set the language.
+點擊“通用”按鈕進入可以更變語言的頁面。
 
-### 3.Change language
+### 3.更變語言
 
 ![](../.gitbook/assets/Screenshot\_2022-08-14-15-16-05-53\_d17cc25ab2657fb.jpg)
 
-Find "语言" and click the gray triangle on the right to see the languages supported by HMCL-PE. Just click on the language you want to change.
+找到“語言”，點擊右邊的灰色三角形，可以看到 HMCL-PE 支持的語言。 只需單擊您要更改的語言。
